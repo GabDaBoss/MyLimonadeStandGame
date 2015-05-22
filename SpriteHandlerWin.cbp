@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SpriteHandler" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/SpriteHandler" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="src" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/SpriteHandler" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="src" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="src/SDLApp" />
+			<Add directory="src/Addons" />
+			<Add directory="SDL/SDL2_image-2.0.0/i686-w64-mingw32/include" />
+			<Add directory="SDL/SDL2_ttf-2.0.12/i686-w64-mingw32/include" />
+			<Add directory="SDL/SDL2-2.0.3/i686-w64-mingw32/include" />
+		</Compiler>
+		<Linker>
+			<Add option="-lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_ttf" />
+			<Add library="SDL\SDL2_image-2.0.0\i686-w64-mingw32\lib\libSDL2_image.a" />
+			<Add library="SDL\SDL2_image-2.0.0\i686-w64-mingw32\lib\libSDL2_image.dll.a" />
+			<Add library="SDL\SDL2_ttf-2.0.12\i686-w64-mingw32\lib\libSDL2_ttf.a" />
+			<Add library="SDL\SDL2_ttf-2.0.12\i686-w64-mingw32\lib\libSDL2_ttf.dll.a" />
+			<Add library="SDL\SDL2-2.0.3\i686-w64-mingw32\lib\libSDL2.a" />
+			<Add library="SDL\SDL2-2.0.3\i686-w64-mingw32\lib\libSDL2.dll.a" />
+			<Add directory="SDL/SDL2-2.0.3/i686-w64-mingw32/lib" />
+			<Add directory="SDL/SDL2_ttf-2.0.12/i686-w64-mingw32/lib" />
+			<Add directory="SDL/SDL2_image-2.0.0/i686-w64-mingw32/lib" />
+		</Linker>
+		<Unit filename="src/Addons/Client.cpp" />
+		<Unit filename="src/Addons/ClientHandler.cpp" />
+		<Unit filename="src/Addons/ClientList.cpp" />
+		<Unit filename="src/Addons/Menu.cpp" />
+		<Unit filename="src/Addons/Node.cpp" />
+		<Unit filename="src/Addons/Stand.cpp" />
+		<Unit filename="src/Addons/WaitingList.cpp" />
+		<Unit filename="src/Addons/include/Client.h" />
+		<Unit filename="src/Addons/include/ClientHandler.h" />
+		<Unit filename="src/Addons/include/ClientList.h" />
+		<Unit filename="src/Addons/include/Menu.h" />
+		<Unit filename="src/Addons/include/Node.h" />
+		<Unit filename="src/Addons/include/Stand.h" />
+		<Unit filename="src/Addons/include/WaitingList.h" />
+		<Unit filename="src/MyApp.cpp" />
+		<Unit filename="src/MyApp.h" />
+		<Unit filename="src/SDLApp/Button.cpp" />
+		<Unit filename="src/SDLApp/Input.cpp" />
+		<Unit filename="src/SDLApp/SDLApp.cpp" />
+		<Unit filename="src/SDLApp/SDLSetup.cpp" />
+		<Unit filename="src/SDLApp/Sprite.cpp" />
+		<Unit filename="src/SDLApp/SpriteHandler.cpp" />
+		<Unit filename="src/SDLApp/Text.cpp" />
+		<Unit filename="src/SDLApp/include/Button.h" />
+		<Unit filename="src/SDLApp/include/Input.h" />
+		<Unit filename="src/SDLApp/include/SDLApp.h" />
+		<Unit filename="src/SDLApp/include/SDLSetup.h" />
+		<Unit filename="src/SDLApp/include/Sprite.h" />
+		<Unit filename="src/SDLApp/include/SpriteHandler.h" />
+		<Unit filename="src/SDLApp/include/Text.h" />
+		<Unit filename="src/main.cpp" />
+		<Unit filename="src/main.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

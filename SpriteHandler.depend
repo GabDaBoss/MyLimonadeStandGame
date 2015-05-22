@@ -1,0 +1,1964 @@
+# depslib dependency file v1.0
+1421769898 source:/home/gabriel/Desktop/SpriteHandler/src/main.cpp
+	"main.h"
+
+1422507022 
+
+1421769898 /home/gabriel/Desktop/SpriteHandler/src/main.h
+	"MyApp.h"
+
+1424882870 /home/gabriel/Desktop/SpriteHandler/src/MyApp.h
+	<SDLApp/include/SDLApp.h>
+	<Addons/include/ClientHandler.h>
+	<Addons/include/Menu.h>
+	<Addons/include/Stand.h>
+
+1424900870 clude/Stand.h>
+
+1422477449 /home/gabriel/Desktop/SpriteHandler/src/SDLApp/include/SDLApp.h
+	"Input.h"
+	"SDLSetup.h"
+	"Text.h"
+	"SpriteHandler.h"
+
+1422495448 dler.h"
+
+1417035231 /home/gabriel/Desktop/SpriteHandler/src/SDLApp/include/Input.h
+	<SDL2/SDL.h>
+	"Button.h"
+	<iostream>
+
+1422552769 /home/gabriel/Desktop/SpriteHandler/src/SDLApp/include/Button.h
+	"include/SpriteHandler.h"
+
+1422514084 priteHandler.h"
+
+1422495908 /home/gabriel/Desktop/SpriteHandler/src/SDLApp/include/Sprite.h
+	"SDLSetup.h"
+
+1427750075 h"
+
+1417451508 /home/gabriel/Desktop/SpriteHandler/src/SDLApp/include/SDLSetup.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+	<SDL2/SDL_ttf.h>
+
+1417469508 ttf.h>
+
+1417451229 /home/gabriel/Desktop/SpriteHandler/src/SDLApp/include/Text.h
+	<string>
+	<strstream>
+	"SDLSetup.h"
+
+1422489023 /home/gabriel/Desktop/SpriteHandler/src/SDLApp/include/SpriteHandler.h
+	"Sprite.h"
+
+1422033623 /home/gabriel/Desktop/SpriteHandler/src/SDLApp/include/SpriteSheet.h
+	"Sprite.h"
+
+1424882965 source:/home/gabriel/Desktop/SpriteHandler/src/MyApp.cpp
+	"MyApp.h"
+
+1422542331 source:/home/gabriel/Desktop/SpriteHandler/src/SDLApp/Button.cpp
+	"include/Button.h"
+
+1422560330 utton.h"
+
+1419905716 source:/home/gabriel/Desktop/SpriteHandler/src/SDLApp/Input.cpp
+	"include/Input.h"
+
+1419923716 nput.h"
+
+1422485006 source:/home/gabriel/Desktop/SpriteHandler/src/SDLApp/SDLApp.cpp
+	"include/SDLApp.h"
+
+1422503006 DLApp.h"
+
+1420932220 source:/home/gabriel/Desktop/SpriteHandler/src/SDLApp/SDLSetup.cpp
+	"include/SDLSetup.h"
+
+1427749687 DLSetup.h"
+
+1424458315 source:/home/gabriel/Desktop/SpriteHandler/src/SDLApp/Sprite.cpp
+	"include/Sprite.h"
+
+1424476314 prite.h"
+
+1422496085 source:/home/gabriel/Desktop/SpriteHandler/src/SDLApp/SpriteHandler.cpp
+	"include/SpriteHandler.h"
+
+1422033660 source:/home/gabriel/Desktop/SpriteHandler/src/SDLApp/SpriteSheet.cpp
+	"include/SpriteSheet.h"
+
+1422033660 priteSheet.h"
+
+1417451570 source:/home/gabriel/Desktop/SpriteHandler/src/SDLApp/Text.cpp
+	"include/Text.h"
+
+1427750191 ext.h"
+
+1424891816 source:/home/gabriel/Desktop/SpriteHandler/src/Addons/Client.cpp
+	"include/Client.h"
+
+1424900064 lient.h"
+
+1424891721 /home/gabriel/Desktop/SpriteHandler/src/Addons/include/Client.h
+	"include/SDLApp.h"
+	<ctime>
+	<cstdlib>
+
+1422746197 /home/gabriel/Desktop/SpriteHandler/src/Addons/include/ClientSpriteHandler.h
+	"include/SpriteHandler.h"
+	"include/Button.h"
+	<ctime>
+	<cstdlib>
+
+1422557178 source:/home/gabriel/Desktop/SpriteHandler/src/Addons/ClientSpriteHandler.cpp
+	"include/ClientSpriteHandler.h"
+
+1422557178 lientSpriteHandler.h"
+
+1424881995 source:/home/gabriel/Desktop/SpriteHandler/src/Addons/ClientList.cpp
+	"include/ClientList.h"
+
+1424899994 lientList.h"
+
+1424364012 /home/gabriel/Desktop/SpriteHandler/src/Addons/include/ClientList.h
+	"include/Node.h"
+
+1424900050 ode.h"
+
+1424882064 /home/gabriel/Desktop/SpriteHandler/src/Addons/include/Node.h
+	"include/Client.h"
+
+1422553703 source:/home/gabriel/Desktop/SpriteHandler/src/Addons/Menu.cpp
+	"include/Menu.h"
+
+1422571702 enu.h"
+
+1422552770 /home/gabriel/Desktop/SpriteHandler/src/Addons/include/Menu.h
+	"include/SDLApp.h"
+	"include/Stand.h"
+
+1422571738 tand.h"
+
+1422553460 /home/gabriel/Desktop/SpriteHandler/src/Addons/include/Stand.h
+	"include/SDLApp.h"
+
+1424882051 source:/home/gabriel/Desktop/SpriteHandler/src/Addons/Node.cpp
+	"include/Node.h"
+
+1422553739 source:/home/gabriel/Desktop/SpriteHandler/src/Addons/Stand.cpp
+	"include/Stand.h"
+
+1424701874 /home/gabriel/Desktop/SpriteHandler/src/Addons/include/ClientHandler.h
+	"include/SDLSetup.h"
+	"WaitingList.h"
+	<ctime>
+	<cstdlib>
+
+1424891382 source:/home/gabriel/Desktop/SpriteHandler/src/Addons/ClientHandler.cpp
+	"include/ClientHandler.h"
+
+1427809466 lientHandler.h"
+
+1424739325 /home/gabriel/Desktop/SpriteHandler/src/Addons/include/WaitingList.h
+	"include/ClientList.h"
+
+1424881990 source:/home/gabriel/Desktop/SpriteHandler/src/Addons/WaitingList.cpp
+	"include/WaitingList.h"
+
+1424899990 aitingList.h"
+
+1424910050 source:f:\spritehandler\src\addons\client.cpp
+	"include/Client.h"
+
+1424909720 f:\spritehandler\src\addons\include\client.h
+	"include/SDLApp.h"
+	<ctime>
+	<cstdlib>
+
+1424910074 source:f:\spritehandler\src\addons\clienthandler.cpp
+	"include/ClientHandler.h"
+
+1424719874 f:\spritehandler\src\addons\include\clienthandler.h
+	"include/SDLSetup.h"
+	"WaitingList.h"
+	<ctime>
+	<cstdlib>
+
+1424757324 f:\spritehandler\src\addons\include\waitinglist.h
+	"include/ClientList.h"
+
+1424899994 source:f:\spritehandler\src\addons\clientlist.cpp
+	"include/ClientList.h"
+
+1424382012 f:\spritehandler\src\addons\include\clientlist.h
+	"include/Node.h"
+
+1422571702 source:f:\spritehandler\src\addons\menu.cpp
+	"include/Menu.h"
+
+1422570770 f:\spritehandler\src\addons\include\menu.h
+	"include/SDLApp.h"
+	"include/Stand.h"
+
+1424900050 source:f:\spritehandler\src\addons\node.cpp
+	"include/Node.h"
+
+1424900064 f:\spritehandler\src\addons\include\node.h
+	"include/Client.h"
+
+1422571738 source:f:\spritehandler\src\addons\stand.cpp
+	"include/Stand.h"
+
+1422571460 f:\spritehandler\src\addons\include\stand.h
+	"include/SDLApp.h"
+
+1424899990 source:f:\spritehandler\src\addons\waitinglist.cpp
+	"include/WaitingList.h"
+
+1421787898 source:f:\spritehandler\src\main.cpp
+	"main.h"
+
+1421787898 f:\spritehandler\src\main.h
+	"MyApp.h"
+
+1424900870 f:\spritehandler\src\myapp.h
+	<SDLApp/include/SDLApp.h>
+	<Addons/include/ClientHandler.h>
+	<Addons/include/Menu.h>
+	<Addons/include/Stand.h>
+
+1422495448 f:\spritehandler\src\sdlapp\include\sdlapp.h
+	"Input.h"
+	"SDLSetup.h"
+	"Text.h"
+	"SpriteHandler.h"
+
+1417053230 f:\spritehandler\src\sdlapp\include\input.h
+	<SDL2/SDL.h>
+	"Button.h"
+	<iostream>
+
+1422570768 f:\spritehandler\src\sdlapp\include\button.h
+	"include/SpriteHandler.h"
+
+1417469508 f:\spritehandler\src\sdlapp\include\sdlsetup.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+	<SDL2/SDL_ttf.h>
+
+1417469228 f:\spritehandler\src\sdlapp\include\text.h
+	<string>
+	<strstream>
+	"SDLSetup.h"
+
+1422507022 f:\spritehandler\src\sdlapp\include\spritehandler.h
+	"Sprite.h"
+
+1422513908 f:\spritehandler\src\sdlapp\include\sprite.h
+	"SDLSetup.h"
+
+1424900964 source:f:\spritehandler\src\myapp.cpp
+	"MyApp.h"
+
+1422560330 source:f:\spritehandler\src\sdlapp\button.cpp
+	"include/Button.h"
+
+1419923716 source:f:\spritehandler\src\sdlapp\input.cpp
+	"include/Input.h"
+
+1422503006 source:f:\spritehandler\src\sdlapp\sdlapp.cpp
+	"include/SDLApp.h"
+
+1420950220 source:f:\spritehandler\src\sdlapp\sdlsetup.cpp
+	"include/SDLSetup.h"
+
+1424476314 source:f:\spritehandler\src\sdlapp\sprite.cpp
+	"include/Sprite.h"
+
+1422514084 source:f:\spritehandler\src\sdlapp\spritehandler.cpp
+	"include/SpriteHandler.h"
+
+1417469570 source:f:\spritehandler\src\sdlapp\text.cpp
+	"include/Text.h"
+
+1424910050 source:c:\users\0940135.clim\desktop\spritehandler\src\addons\client.cpp
+	"include/Client.h"
+
+1424909720 c:\users\0940135.clim\desktop\spritehandler\src\addons\include\client.h
+	"include/SDLApp.h"
+	<ctime>
+	<cstdlib>
+
+1424910074 source:c:\users\0940135.clim\desktop\spritehandler\src\addons\clienthandler.cpp
+	"include/ClientHandler.h"
+
+1424719874 c:\users\0940135.clim\desktop\spritehandler\src\addons\include\clienthandler.h
+	"include/SDLSetup.h"
+	"WaitingList.h"
+	<ctime>
+	<cstdlib>
+
+1424757324 c:\users\0940135.clim\desktop\spritehandler\src\addons\include\waitinglist.h
+	"include/ClientList.h"
+
+1424899994 source:c:\users\0940135.clim\desktop\spritehandler\src\addons\clientlist.cpp
+	"include/ClientList.h"
+
+1424382012 c:\users\0940135.clim\desktop\spritehandler\src\addons\include\clientlist.h
+	"include/Node.h"
+
+1422571702 source:c:\users\0940135.clim\desktop\spritehandler\src\addons\menu.cpp
+	"include/Menu.h"
+
+1422570770 c:\users\0940135.clim\desktop\spritehandler\src\addons\include\menu.h
+	"include/SDLApp.h"
+	"include/Stand.h"
+
+1424900050 source:c:\users\0940135.clim\desktop\spritehandler\src\addons\node.cpp
+	"include/Node.h"
+
+1424900064 c:\users\0940135.clim\desktop\spritehandler\src\addons\include\node.h
+	"include/Client.h"
+
+1422571738 source:c:\users\0940135.clim\desktop\spritehandler\src\addons\stand.cpp
+	"include/Stand.h"
+
+1422571460 c:\users\0940135.clim\desktop\spritehandler\src\addons\include\stand.h
+	"include/SDLApp.h"
+
+1424899990 source:c:\users\0940135.clim\desktop\spritehandler\src\addons\waitinglist.cpp
+	"include/WaitingList.h"
+
+1427751095 source:c:\users\0940135.clim\desktop\spritehandler\src\main.cpp
+	"main.h"
+
+1421787898 c:\users\0940135.clim\desktop\spritehandler\src\main.h
+	"MyApp.h"
+
+1424900870 c:\users\0940135.clim\desktop\spritehandler\src\myapp.h
+	<SDLApp/include/SDLApp.h>
+	<Addons/include/ClientHandler.h>
+	<Addons/include/Menu.h>
+	<Addons/include/Stand.h>
+
+1422495448 c:\users\0940135.clim\desktop\spritehandler\src\sdlapp\include\sdlapp.h
+	"Input.h"
+	"SDLSetup.h"
+	"Text.h"
+	"SpriteHandler.h"
+
+1417053230 c:\users\0940135.clim\desktop\spritehandler\src\sdlapp\include\input.h
+	<SDL2/SDL.h>
+	"Button.h"
+	<iostream>
+
+1422570768 c:\users\0940135.clim\desktop\spritehandler\src\sdlapp\include\button.h
+	"include/SpriteHandler.h"
+
+1427749867 c:\users\0940135.clim\desktop\spritehandler\src\sdlapp\include\sdlsetup.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<cstdlib>
+
+1427750075 c:\users\0940135.clim\desktop\spritehandler\src\sdlapp\include\text.h
+	<string>
+	<strstream>
+	<sstream>
+	"SDLSetup.h"
+
+1422507022 c:\users\0940135.clim\desktop\spritehandler\src\sdlapp\include\spritehandler.h
+	"Sprite.h"
+
+1422513908 c:\users\0940135.clim\desktop\spritehandler\src\sdlapp\include\sprite.h
+	"SDLSetup.h"
+
+1424900964 source:c:\users\0940135.clim\desktop\spritehandler\src\myapp.cpp
+	"MyApp.h"
+
+1422560330 source:c:\users\0940135.clim\desktop\spritehandler\src\sdlapp\button.cpp
+	"include/Button.h"
+
+1419923716 source:c:\users\0940135.clim\desktop\spritehandler\src\sdlapp\input.cpp
+	"include/Input.h"
+
+1422503006 source:c:\users\0940135.clim\desktop\spritehandler\src\sdlapp\sdlapp.cpp
+	"include/SDLApp.h"
+
+1427749687 source:c:\users\0940135.clim\desktop\spritehandler\src\sdlapp\sdlsetup.cpp
+	"include/SDLSetup.h"
+
+1424476314 source:c:\users\0940135.clim\desktop\spritehandler\src\sdlapp\sprite.cpp
+	"include/Sprite.h"
+
+1422514084 source:c:\users\0940135.clim\desktop\spritehandler\src\sdlapp\spritehandler.cpp
+	"include/SpriteHandler.h"
+
+1427750191 source:c:\users\0940135.clim\desktop\spritehandler\src\sdlapp\text.cpp
+	"include/Text.h"
+
+1394937196 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 e.h"
+
+1394937196 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1394937197 orm.h"
+
+1427749474 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1394937197 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\close_code.h
+
+1394937196 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1394937197 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1394937197 c.h"
+
+1394937196 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1394937197 .h"
+
+1394937196 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1427749593 c:\users\0940135.clim\desktop\sdl\sdl2_image-2.0.0\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_version.h"
+	"SDL2/begin_code.h"
+	"SDL2/close_code.h"
+
+1427749603 e_code.h"
+
+1427749603 c:\users\0940135.clim\desktop\sdl\sdl2_ttf-2.0.12\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL2/SDL.h"
+	"SDL2/begin_code.h"
+	"SDL2/close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1427749474 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1394937197 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\close_code.h
+
+1394937196 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1427749593 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2_image-2.0.0\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_version.h"
+	"SDL2/begin_code.h"
+	"SDL2/close_code.h"
+
+1427749603 c:\users\0940135.clim\desktop\spritehandler\sdl\sdl2_ttf-2.0.12\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL2/SDL.h"
+	"SDL2/begin_code.h"
+	"SDL2/close_code.h"
+
+1427809421 source:c:\users\0940135.clim\desktop\spritehandlerwin\src\addons\client.cpp
+	"include/Client.h"
+
+1424909720 c:\users\0940135.clim\desktop\spritehandlerwin\src\addons\include\client.h
+	"include/SDLApp.h"
+	<ctime>
+	<cstdlib>
+
+1422495448 c:\users\0940135.clim\desktop\spritehandlerwin\src\sdlapp\include\sdlapp.h
+	"Input.h"
+	"SDLSetup.h"
+	"Text.h"
+	"SpriteHandler.h"
+
+1417053230 c:\users\0940135.clim\desktop\spritehandlerwin\src\sdlapp\include\input.h
+	<SDL2/SDL.h>
+	"Button.h"
+	<iostream>
+
+1394937196 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1427749474 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1394937197 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\close_code.h
+
+1394937196 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937197 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2-2.0.3\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1422570768 c:\users\0940135.clim\desktop\spritehandlerwin\src\sdlapp\include\button.h
+	"include/SpriteHandler.h"
+
+1422507022 c:\users\0940135.clim\desktop\spritehandlerwin\src\sdlapp\include\spritehandler.h
+	"Sprite.h"
+
+1422513908 c:\users\0940135.clim\desktop\spritehandlerwin\src\sdlapp\include\sprite.h
+	"SDLSetup.h"
+
+1427749867 c:\users\0940135.clim\desktop\spritehandlerwin\src\sdlapp\include\sdlsetup.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<cstdlib>
+
+1427749593 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2_image-2.0.0\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_version.h"
+	"SDL2/begin_code.h"
+	"SDL2/close_code.h"
+
+1427749603 c:\users\0940135.clim\desktop\spritehandlerwin\sdl\sdl2_ttf-2.0.12\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL2/SDL.h"
+	"SDL2/begin_code.h"
+	"SDL2/close_code.h"
+
+1427750075 c:\users\0940135.clim\desktop\spritehandlerwin\src\sdlapp\include\text.h
+	<string>
+	<strstream>
+	<sstream>
+	"SDLSetup.h"
+
+1427809466 source:c:\users\0940135.clim\desktop\spritehandlerwin\src\addons\clienthandler.cpp
+	"include/ClientHandler.h"
+
+1424719874 c:\users\0940135.clim\desktop\spritehandlerwin\src\addons\include\clienthandler.h
+	"include/SDLSetup.h"
+	"WaitingList.h"
+	<ctime>
+	<cstdlib>
+
+1424757324 c:\users\0940135.clim\desktop\spritehandlerwin\src\addons\include\waitinglist.h
+	"include/ClientList.h"
+
+1424382012 c:\users\0940135.clim\desktop\spritehandlerwin\src\addons\include\clientlist.h
+	"include/Node.h"
+
+1424900064 c:\users\0940135.clim\desktop\spritehandlerwin\src\addons\include\node.h
+	"include/Client.h"
+
+1424899994 source:c:\users\0940135.clim\desktop\spritehandlerwin\src\addons\clientlist.cpp
+	"include/ClientList.h"
+
+1422571702 source:c:\users\0940135.clim\desktop\spritehandlerwin\src\addons\menu.cpp
+	"include/Menu.h"
+
+1422570770 c:\users\0940135.clim\desktop\spritehandlerwin\src\addons\include\menu.h
+	"include/SDLApp.h"
+	"include/Stand.h"
+
+1422571460 c:\users\0940135.clim\desktop\spritehandlerwin\src\addons\include\stand.h
+	"include/SDLApp.h"
+
+1424900050 source:c:\users\0940135.clim\desktop\spritehandlerwin\src\addons\node.cpp
+	"include/Node.h"
+
+1422571738 source:c:\users\0940135.clim\desktop\spritehandlerwin\src\addons\stand.cpp
+	"include/Stand.h"
+
+1424899990 source:c:\users\0940135.clim\desktop\spritehandlerwin\src\addons\waitinglist.cpp
+	"include/WaitingList.h"
+
+1427751095 source:c:\users\0940135.clim\desktop\spritehandlerwin\src\main.cpp
+	"main.h"
+
+1421787898 c:\users\0940135.clim\desktop\spritehandlerwin\src\main.h
+	"MyApp.h"
+
+1424900870 c:\users\0940135.clim\desktop\spritehandlerwin\src\myapp.h
+	<SDLApp/include/SDLApp.h>
+	<Addons/include/ClientHandler.h>
+	<Addons/include/Menu.h>
+	<Addons/include/Stand.h>
+
+1427809339 source:c:\users\0940135.clim\desktop\spritehandlerwin\src\myapp.cpp
+	"MyApp.h"
+
+1422560330 source:c:\users\0940135.clim\desktop\spritehandlerwin\src\sdlapp\button.cpp
+	"include/Button.h"
+
+1419923716 source:c:\users\0940135.clim\desktop\spritehandlerwin\src\sdlapp\input.cpp
+	"include/Input.h"
+
+1422503006 source:c:\users\0940135.clim\desktop\spritehandlerwin\src\sdlapp\sdlapp.cpp
+	"include/SDLApp.h"
+
+1427749687 source:c:\users\0940135.clim\desktop\spritehandlerwin\src\sdlapp\sdlsetup.cpp
+	"include/SDLSetup.h"
+
+1424476314 source:c:\users\0940135.clim\desktop\spritehandlerwin\src\sdlapp\sprite.cpp
+	"include/Sprite.h"
+
+1422514084 source:c:\users\0940135.clim\desktop\spritehandlerwin\src\sdlapp\spritehandler.cpp
+	"include/SpriteHandler.h"
+
+1427750191 source:c:\users\0940135.clim\desktop\spritehandlerwin\src\sdlapp\text.cpp
+	"include/Text.h"
+
+1427809422 source:/home/gabriel/SpriteHandlerwin/src/Addons/Client.cpp
+	"include/Client.h"
+
+1424906120 /home/gabriel/SpriteHandlerwin/src/Addons/include/Client.h
+	"include/SDLApp.h"
+	<ctime>
+	<cstdlib>
+
+1422491848 /home/gabriel/SpriteHandlerwin/src/SDLApp/include/SDLApp.h
+	"Input.h"
+	"SDLSetup.h"
+	"Text.h"
+	"SpriteHandler.h"
+
+1417049630 /home/gabriel/SpriteHandlerwin/src/SDLApp/include/Input.h
+	<SDL2/SDL.h>
+	"Button.h"
+	<iostream>
+
+1394937196 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1394937198 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_config.h
+	"SDL_platform.h"
+
+1427749476 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/begin_code.h
+
+1394937198 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/close_code.h
+
+1394937196 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1394937196 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1394937198 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1394937198 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_scancode.h
+	"SDL_stdinc.h"
+
+1394937196 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1394937196 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937196 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394937198 /home/gabriel/SpriteHandlerwin/SDL/SDL2-2.0.3/i686-w64-mingw32/include/SDL2/SDL_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1422567168 /home/gabriel/SpriteHandlerwin/src/SDLApp/include/Button.h
+	"include/SpriteHandler.h"
+
+1422503422 /home/gabriel/SpriteHandlerwin/src/SDLApp/include/SpriteHandler.h
+	"Sprite.h"
+
+1422510308 /home/gabriel/SpriteHandlerwin/src/SDLApp/include/Sprite.h
+	"SDLSetup.h"
+
+1427749868 /home/gabriel/SpriteHandlerwin/src/SDLApp/include/SDLSetup.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<cstdlib>
+
+1427749594 /home/gabriel/SpriteHandlerwin/SDL/SDL2_image-2.0.0/i686-w64-mingw32/include/SDL2/SDL_image.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_version.h"
+	"SDL2/begin_code.h"
+	"SDL2/close_code.h"
+
+1427749604 /home/gabriel/SpriteHandlerwin/SDL/SDL2_ttf-2.0.12/i686-w64-mingw32/include/SDL2/SDL_ttf.h
+	"SDL2/SDL.h"
+	"SDL2/begin_code.h"
+	"SDL2/close_code.h"
+
+1427750076 /home/gabriel/SpriteHandlerwin/src/SDLApp/include/Text.h
+	<string>
+	<strstream>
+	<sstream>
+	"SDLSetup.h"
+
+1427809468 source:/home/gabriel/SpriteHandlerwin/src/Addons/ClientHandler.cpp
+	"include/ClientHandler.h"
+
+1424716274 /home/gabriel/SpriteHandlerwin/src/Addons/include/ClientHandler.h
+	"include/SDLSetup.h"
+	"WaitingList.h"
+	<ctime>
+	<cstdlib>
+
+1424753724 /home/gabriel/SpriteHandlerwin/src/Addons/include/WaitingList.h
+	"include/ClientList.h"
+
+1424378412 /home/gabriel/SpriteHandlerwin/src/Addons/include/ClientList.h
+	"include/Node.h"
+
+1424896464 /home/gabriel/SpriteHandlerwin/src/Addons/include/Node.h
+	"include/Client.h"
+
+1424896394 source:/home/gabriel/SpriteHandlerwin/src/Addons/ClientList.cpp
+	"include/ClientList.h"
+
+1422568102 source:/home/gabriel/SpriteHandlerwin/src/Addons/Menu.cpp
+	"include/Menu.h"
+
+1422567170 /home/gabriel/SpriteHandlerwin/src/Addons/include/Menu.h
+	"include/SDLApp.h"
+	"include/Stand.h"
+
+1422567860 /home/gabriel/SpriteHandlerwin/src/Addons/include/Stand.h
+	"include/SDLApp.h"
+
+1424896450 source:/home/gabriel/SpriteHandlerwin/src/Addons/Node.cpp
+	"include/Node.h"
+
+1422568138 source:/home/gabriel/SpriteHandlerwin/src/Addons/Stand.cpp
+	"include/Stand.h"
+
+1424896390 source:/home/gabriel/SpriteHandlerwin/src/Addons/WaitingList.cpp
+	"include/WaitingList.h"
+
+1427751096 source:/home/gabriel/SpriteHandlerwin/src/main.cpp
+	"main.h"
+
+1421784298 /home/gabriel/SpriteHandlerwin/src/main.h
+	"MyApp.h"
+
+1424897270 /home/gabriel/SpriteHandlerwin/src/MyApp.h
+	<SDLApp/include/SDLApp.h>
+	<Addons/include/ClientHandler.h>
+	<Addons/include/Menu.h>
+	<Addons/include/Stand.h>
+
+1422556730 source:/home/gabriel/SpriteHandlerwin/src/SDLApp/Button.cpp
+	"include/Button.h"
+
+1419920116 source:/home/gabriel/SpriteHandlerwin/src/SDLApp/Input.cpp
+	"include/Input.h"
+
+1422499406 source:/home/gabriel/SpriteHandlerwin/src/SDLApp/SDLApp.cpp
+	"include/SDLApp.h"
+
+1427749688 source:/home/gabriel/SpriteHandlerwin/src/SDLApp/SDLSetup.cpp
+	"include/SDLSetup.h"
+
+1424472714 source:/home/gabriel/SpriteHandlerwin/src/SDLApp/Sprite.cpp
+	"include/Sprite.h"
+
+1422510484 source:/home/gabriel/SpriteHandlerwin/src/SDLApp/SpriteHandler.cpp
+	"include/SpriteHandler.h"
+
+1427750192 source:/home/gabriel/SpriteHandlerwin/src/SDLApp/Text.cpp
+	"include/Text.h"
+
+1427809616 source:/home/gabriel/SpriteHandlerwin/src/MyApp.cpp
+	"MyApp.h"
+
